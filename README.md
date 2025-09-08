@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17079986.svg)](https://doi.org/10.5281/zenodo.17079986)
 # The Redemption Optimization (TRO) — Replication Pack
 
 This repository contains the replication materials for *The Redemption Optimization*, including proofs, simulations, and supporting documents.
