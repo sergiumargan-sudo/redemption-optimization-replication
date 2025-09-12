@@ -1,25 +1,19 @@
-# The Redemption Optimization (TRO) — Replication Pack  
+The Redemption Optimization (TRO) — Complete Replication & Manuscript Pack
 
-This repository contains the replication materials for *The Redemption Optimization: Margan’s Optimization Paradox and the Problem of Evil* by **Sergiu Margan**.  
+This repository contains the full replication and reference materials for The Redemption Optimization: Margan’s Optimization Paradox and the Problem of Evil by Sergiu Margan.
 
-The project introduces the **Margan Optimization Paradox (MOP)** and proves that evil is necessary only once to ground redemption goods (mercy, justice), but every repetition adds only cost without value. This framework builds a formal bridge between theology, ethics, and applied systems (AI alignment, governance, healthcare, law, etc.).  
+The project introduces the Margan Optimization Framework and Margan’s Optimization Paradox (MOP), formally proving that evil is necessary only once to ground redemption goods (mercy, justice), after which every repetition adds only cost without new value.
 
----
+This repository now includes:
 
-## Contents  
+Core Replication Materials — theorem sketch, evaluator equation, simulation results with optimality curves, and proofs confirming that “one rejection per class” is both sufficient and optimal.
 
-- **TRO_Combined_with_Graphs.pdf**  
-  The core replication document.  
-  - Contains **simulation results** showing the “evil only once” optimality curve (objective J peaking at a single rejection, then declining).  
-  - Includes the **formal evaluator equation**:  
-    \[
-    J = Σ(α∆L + γ∆F + μM + νJv) − Σ(βH + κR)
-    \]  
-  - Provides a **theorem sketch** of **Minimal-Trigger Optimality (MOP)**: under typal/concave credits with κ>0, J is maximized at n=1; repeats add costs but no new value.  
-  - Visual graphs and proofs confirm that “one rejection per class” is sufficient and optimal.  
+Full Manuscript (Peer-Review Ready) — a comprehensive theoretical exposition with background, formal model, proofs, and philosophical implications (as published on PhilArchive).
 
-- **(Optional Supplement to be added later)**  
-  *Margan’s Optimization Paradox: Theological Framing* — a plain-language explanation of MOP in theological context.  
+Simulation Summary — step-by-step description of parameters, replication process, and interpretation.
+
+
+This combined pack is intended for academic citation, peer review, and practical implementation across theology, ethics, AI alignment, governance, healthcare, law, and other applied systems..  
 
 ---
 
