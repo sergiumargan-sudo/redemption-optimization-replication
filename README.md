@@ -1,8 +1,8 @@
-The Redemption Optimization (TRO) — Complete Replication & Manuscript Pack
+The Redemption Optimization (TRO) — Complete Replication, Manuscript & Companion Pack
 
-This repository contains the full replication and reference materials for The Redemption Optimization: Margan’s Optimization Paradox and the Problem of Evil by Sergiu Margan.
+This repository contains the full replication, manuscript, and companion materials for The Redemption Optimization: Margan’s Optimization Paradox and the Problem of Evil by Sergiu Margan.
 
-The project introduces the Margan Optimization Framework and Margan’s Optimization Paradox (MOP), formally proving that evil is necessary only once to ground redemption goods (mercy, justice), after which every repetition adds only cost without new value.
+The project introduces the Margan Optimization Framework and Margan’s Optimization Paradox (MOP), formally proving that evil is necessary only once to ground redemption goods (mercy, justice). Every repetition beyond the first adds cost without generating new value.
 
 This repository now includes:
 
@@ -10,43 +10,60 @@ Core Replication Materials — theorem sketch, evaluator equation, simulation re
 
 Full Manuscript (Peer-Review Ready) — a comprehensive theoretical exposition with background, formal model, proofs, and philosophical implications (as published on PhilArchive).
 
+Companion Paper — The Necessary Fall — a theological and philosophical companion demonstrating why one rebellion was historically, theologically, and epistemically inevitable, grounding mercy and justice for all of creation.
+
 Simulation Summary — step-by-step description of parameters, replication process, and interpretation.
 
 
-This combined pack is intended for academic citation, peer review, and practical implementation across theology, ethics, AI alignment, governance, healthcare, law, and other applied systems..  
+This combined pack is intended for academic citation, peer review, and applied implementation across theology, ethics, AI alignment, governance, healthcare, law, and other domains where freedom and justice must coexist.
+
 
 ---
 
-## How to Use  
+How to Use
 
-1. Open **TRO_Combined_with_Graphs.pdf** to see both the **proof sketch** and the **graphical results**.  
-2. Cite this repository (see below) if referencing simulations or visualizations.  
-3. For extended narrative and applications, see the book manuscript *The Redemption Optimization*.  
+1. Open TRO_Combined_with_Graphs.pdf to review the proof sketch and graphical results.
 
----
 
-## DOI & Citation  
+2. Open The_Necessary_Fall_Companion_TRO_v1.1.pdf for the theological/philosophical framing of the framework.
 
-This replication pack is archived permanently on Zenodo:  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17079986.svg)](https://doi.org/10.5281/zenodo.17079986)  
+3. Cite this repository (see below) when referencing simulations, formal proofs, or companion analysis.
 
-**How to cite:**  
 
-Sergiu Margan (2025). *The Redemption Optimization: Margan’s Optimization Paradox and the Problem of Evil*. Replication Pack. Zenodo. https://doi.org/10.5281/zenodo.17079986  
+4. For the full narrative treatment, see the book manuscript The Redemption Optimization.
+
+
+
 
 ---
 
-## License  
+DOI & Citation
 
-This repository is released under the MIT License.  
-Reuse of code-generated artefacts is permitted under this licence.  
-Reuse of book prose and page layouts requires author/publisher permission.  
+This repository is archived permanently on Zenodo:
+
+
+
+How to cite:
+
+Sergiu Margan (2025). The Redemption Optimization: Margan’s Optimization Paradox and the Problem of Evil — Replication, Manuscript & Companion Pack. Zenodo. https://doi.org/10.5281/zenodo.17079986
+
 
 ---
 
-## Contact  
+License
 
-- Author: **Sergiu Margan**  
-- Email: [sergiumargan@yahoo.com](mailto:sergiumargan@yahoo.com)  
-- For errata/updates: [Zenodo record](https://doi.org/10.5281/zenodo.17079986)
+This repository is released under the MIT License.
+Reuse of code-generated artefacts is permitted under this licence.
+Reuse of book prose, companion papers, or page layouts requires author/publisher permission.
+
+
+---
+
+Contact
+
+Author: Sergiu Margan
+
+Email: sergiumargan@yahoo.com
+
+Errata & Updates: Zenodo record
